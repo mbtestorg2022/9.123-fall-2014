@@ -19,43 +19,474 @@ Please see the [Course Publicity]({{< baseurl >}}/pages/course-publicity) page a
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class quizzes | 30% |
-| Homework Assignments | 30% |
-| Final Project | 30% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Calendar
 ---------------
 
 Please note that there was no lab corresponding to lectures 1, 12, 14, and 15.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course Introduction; Overview of Neurotechnology | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} [Advanced Microscopy](http://be.mit.edu/directory/peter-so) {{< br >}}{{< br >}} Guest lecturers: Prof. Elly Nedivi, Prof. Peter So {{< br >}}{{< br >}}  | &nbsp; |
-| Lab 2 |  {{< br >}}{{< br >}} Advanced Microscopy Imaging {{< br >}}{{< br >}} Guest Lecturer: Kalen Berry, Elijah Yew {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} [High-density Electrophysiology](http://web.mit.edu/org/w/wilsonlab/html/research.html) {{< br >}}{{< br >}} Guest lecturer: Prof. Matt Wilson {{< br >}}{{< br >}}  | Quiz 1 |
-| Lab 3 |  {{< br >}}{{< br >}} Digital Electrophysiology {{< br >}}{{< br >}} Guest Lecturer: Jon Newman {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} [Microfluidics and Cell Engineering](http://web.mit.edu/meche/mb/) {{< br >}}{{< br >}} Guest Lecturers: Prof. Roger Kamm & Sebastien Uzel {{< br >}}{{< br >}}  | Quiz 2 |
-| Lab 4 | Microfluidics and Cell Engineering (cont.) | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} [EM-based Connectomics](http://lichtmanlab.fas.harvard.edu/) {{< br >}}{{< br >}} Guest Lecturer: Dr. Daniel Berger {{< br >}}{{< br >}}  |  Quiz 3 |
-| Lab 5 |  {{< br >}}{{< br >}} EM-based Connectomics (cont.) {{< br >}}{{< br >}} Field Trip: Lichtman lab at Harvard {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | [Optogenetics](http://syntheticneurobiology.org/) | Quiz 4  {{< br >}}Homework 1 due |
-| Lab 6a | Optogenetics (cont.) | &nbsp; |
-| Lab 6b | Auto Patch Clamping | &nbsp; |
-| 7 & Lab |  {{< br >}}{{< br >}} [Virus Engineering](http://www.geneticneuroengineering.org/) {{< br >}}{{< br >}} Guest Lecturer: Dr. Ian Wickersham {{< br >}}{{< br >}}  | Quiz 5  |
-| 8 |  {{< br >}}{{< br >}} [Magnetoencephalography (MEG)](https://mcgovern.mit.edu/2014/09/08/meg-matters/) {{< br >}}{{< br >}} Guest Lecturer: Prof. Dimitrios Pantazis {{< br >}}{{< br >}}  | Quiz 6 |
-| Lab 8 | MEG (cont.) | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} [Structural Magnetic Resonance Imaging (MRI)](https://mcgovern.mit.edu/centers/martinos-imaging-center/our-imaging-technologies/) {{< br >}}{{< br >}} Guest Lecturer: Dr. Atsushi Takahashi {{< br >}}{{< br >}}  | Quiz 7  |
-| Lab 9 | Structural MRI | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} [Functional and Molecular MRI](http://mcgovern.mit.edu/technology/martinos-imaging-center) {{< br >}}{{< br >}} Guest Lecturer: Dr. Atsushi Takahashi {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 2 due  {{< br >}}{{< br >}}  |
-| Lab 10 | Functional and Molecular MRI (cont.) | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} High Throughput Neuroscience {{< br >}}{{< br >}} Guest Lecturer: Dr. Limor Freifeld {{< br >}}{{< br >}}  | Quiz 8  |
-| Lab 11 | High Throughput Neuroscience Yanik Lab | &nbsp; |
-| 12 | Discussion of Final Project Guidelines | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} [Whole-brain Optical Imaging](http://chunglab.org/) {{< br >}}{{< br >}} Guest Lecturer: Prof. Kwanghun Chung {{< br >}}{{< br >}}  | Quiz 9  {{< br >}}Homework 3 due |
-| Lab 13 | [CLARITY](http://clarityresourcecenter.org/) | &nbsp; |
-| 14 | Final Presentations I | &nbsp; |
-| 15 | Final Presentations II | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction; Overview of Neurotechnology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Advanced Microscopy](http://be.mit.edu/directory/peter-so)
+
+Guest lecturers: Prof. Elly Nedivi, Prof. Peter So
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advanced Microscopy Imaging
+
+Guest Lecturer: Kalen Berry, Elijah Yew
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[High-density Electrophysiology](http://web.mit.edu/org/w/wilsonlab/html/research.html)
+
+Guest lecturer: Prof. Matt Wilson
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Digital Electrophysiology
+
+Guest Lecturer: Jon Newman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Microfluidics and Cell Engineering](http://web.mit.edu/meche/mb/)
+
+Guest Lecturers: Prof. Roger Kamm & Sebastien Uzel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Microfluidics and Cell Engineering (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[EM-based Connectomics](http://lichtmanlab.fas.harvard.edu/)
+
+Guest Lecturer: Dr. Daniel Berger
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ Quiz 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+EM-based Connectomics (cont.)
+
+Field Trip: Lichtman lab at Harvard
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Optogenetics](http://syntheticneurobiology.org/)
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 4  
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6a
+{{< tdclose >}}
+{{< tdopen >}}
+Optogenetics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6b
+{{< tdclose >}}
+{{< tdopen >}}
+Auto Patch Clamping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7 & Lab
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Virus Engineering](http://www.geneticneuroengineering.org/)
+
+Guest Lecturer: Dr. Ian Wickersham
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 5 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Magnetoencephalography (MEG)](https://mcgovern.mit.edu/2014/09/08/meg-matters/)
+
+Guest Lecturer: Prof. Dimitrios Pantazis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 8
+{{< tdclose >}}
+{{< tdopen >}}
+MEG (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Structural Magnetic Resonance Imaging (MRI)](https://mcgovern.mit.edu/centers/martinos-imaging-center/our-imaging-technologies/)
+
+Guest Lecturer: Dr. Atsushi Takahashi
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 7 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 9
+{{< tdclose >}}
+{{< tdopen >}}
+Structural MRI
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Functional and Molecular MRI](http://mcgovern.mit.edu/technology/martinos-imaging-center)
+
+Guest Lecturer: Dr. Atsushi Takahashi
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 10
+{{< tdclose >}}
+{{< tdopen >}}
+Functional and Molecular MRI (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+High Throughput Neuroscience
+
+Guest Lecturer: Dr. Limor Freifeld
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 8 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 11
+{{< tdclose >}}
+{{< tdopen >}}
+High Throughput Neuroscience Yanik Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Final Project Guidelines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Whole-brain Optical Imaging](http://chunglab.org/)
+
+Guest Lecturer: Prof. Kwanghun Chung
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 9  
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 13
+{{< tdclose >}}
+{{< tdopen >}}
+[CLARITY](http://clarityresourcecenter.org/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations II
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
