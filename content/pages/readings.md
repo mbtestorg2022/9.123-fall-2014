@@ -296,7 +296,7 @@ Guest Lecturer: Prof. Dimitrios Pantazis
 
 Cichy, Radoslaw Martin, Dimitrios Pantazis, et al. "[Resolving Human Object Recognition in Space and Time](http://dx.doi.org/10.1038/nn.3635)." _Nature Neuroscience_ 17, no. 3 (2014): 455–62.
 
-Baillet, Sylvain, John C. Mosher, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Electromagnetic Brain Mapping." (PDF)](http://cogimage.dsi.cnrs.fr/hmtc/references/files/BailletMosherLeahy_IEEESPMAG_No.pdf) _IEEE_ S_ignal Processing Magazine_ 18, no. 6 (2001): 14–30.
+Baillet, Sylvain, John C. Mosher, et al. ["Electromagnetic Brain Mapping." (PDF)](http://cogimage.dsi.cnrs.fr/hmtc/references/files/BailletMosherLeahy_IEEESPMAG_No.pdf) _IEEE_ S_ignal Processing Magazine_ 18, no. 6 (2001): 14–30.
 
 
 {{< tdclose >}}
