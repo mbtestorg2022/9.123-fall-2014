@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e0adc8e-6434-7468-4576-b8a1c1597fbe
 resourcetype: Image
 title: Students
 uid: a908c794-9ee3-488f-70e6-c7a44804dcd0
